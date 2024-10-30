@@ -1,3 +1,4 @@
 Hello git denovo
 Mais um teste de git. Vamos ver se ele se mantem conectado com github.
 Acessando muito tempo depois do netbook (29-10-2024)
+Mais um teste na sincronização do repo do github via chave ssh.
