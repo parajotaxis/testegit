@@ -1,0 +1,3 @@
+Hello git denovo
+Mais um teste de git. Vamos ver se ele se mantem conectado com github.
+Acessando muito tempo depois do netbook (29-10-2024)
