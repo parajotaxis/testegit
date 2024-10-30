@@ -1,0 +1,3 @@
+minhas notas sobre o repositorio:
+- notas.txt criado para uso particular
+- notas.txt diferente do readme do repo
