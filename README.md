@@ -1,2 +1,4 @@
-Este repositorio tem como unico proposito aprendizado das operações do Github.
-Testes de autenticação e sincronismo estão sendo executados com funções didaticas.
+- Este repositorio tem como único proposito aprendizado das operações do Github.
+- Testes de autenticação e sincronismo estão sendo executados com funções didaticas.
+- Mais detalhes futuramente estaram aqui.
+- ...
